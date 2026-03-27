@@ -76,6 +76,6 @@ flutter run
 🧑‍💻 Thông tin tác giả / Profile
 Dự án: Ứng dụng Học Tiếng Anh (VN ES Demo)
 
-Phát triển bởi: [Điền Tên/Username của bạn]
+Phát triển bởi: [Tran Quang Hien]
 
 Mục tiêu dự án: Xây dựng giải pháp công nghệ giáo dục (EdTech) trên nền tảng di động, tối ưu hóa trải nghiệm tự học ngôn ngữ qua công cụ Flashcard và trắc nghiệm tương tác.
