@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://smarttour.site/uploads/1774189035957.jpg" alt="Smart English Learning Banner" width="100%"/>
+ 
 
   <h1>🎓 Smart English Learning App 🚀</h1>
   
